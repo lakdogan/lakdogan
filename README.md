@@ -45,6 +45,9 @@ JS     | 🧠🧠
 React  | 🧠🧠
 Python | 🧠🧠
 Bash   | 🧠🧠🧠
+RPGLE  | 🧠🧠
+TS     | 🧠🧠
+CL/LE  | 🧠🧠
 ```
 🌱 Ich lerne täglich dazu. Mein Ziel: Sauberer, wartbarer und robuster Code, der echten Mehrwert bringt.
 💡 Neue Technologien? Immer her damit – ich bin offen, wissbegierig und lerne schnell.
@@ -101,6 +104,9 @@ JS     | 🧠🧠
 React  | 🧠🧠
 Python | 🧠🧠
 Bash   | 🧠🧠🧠
+RPGLE  | 🧠🧠
+TS     | 🧠🧠
+CL/LE  | 🧠🧠
 ```
 🌱 I'm learning every day. My goal: clean, maintainable, and robust code that delivers real value.  
 💡 New technologies? Always welcome – I’m curious, adaptable, and a fast learner.
