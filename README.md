@@ -44,13 +44,6 @@ Shift6 automatisiert die 6-Spalten-Verschiebung für **RPG Free Code**, sodass d
 
 ---
 
-## 📊 Aktivität
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakdogan&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakdogan&layout=compact&theme=dracula)
-
----
-
 ## 📫 Kontakt
 
 - **LinkedIn:** https://www.linkedin.com/in/levent-akdogan-02b40134b  
